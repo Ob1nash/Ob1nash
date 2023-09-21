@@ -8,7 +8,7 @@ src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb29914
 
 <p align="left"> <a href="https://twitter.com/abinash28734796" target="blank"><img src="https://img.shields.io/twitter/follow/abinash28734796?logo=twitter&style=for-the-badge" alt="abinash28734796" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working with **Django**
 
 - 🌱 I’m currently learning **React,Java,DSA**
 
