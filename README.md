@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abinash</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Web & App developer from India</h3>
 
 
 - 🔭 I’m currently working with **Django, React and Flutter**
